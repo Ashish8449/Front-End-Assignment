@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.nav-item {
+  margin: 0px 40px;
+  color: #fff !important;
+  font-size: 18px;
+  font-weight: bold;
+}
+.navbar-brand {
+  color: #fff !important;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 20px;
+}
